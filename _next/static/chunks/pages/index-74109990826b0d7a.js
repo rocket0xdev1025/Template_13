@@ -857,126 +857,126 @@
                       className:
                         "grid  grid-cols-2 gap-4 mb-4 md:grid-cols-4 w-[90%] md:w-[50%] ",
                       children: [
-                        (0, R.jsx)("div", {
-                          className: "h-12 rounded-lg headers-btn",
-                          style: {
-                            backgroundImage:
-                              "linear-gradient(to left, #3ed44f, gray)",
-                          },
-                          children: (0, R.jsx)("div", {
-                            className:
-                              "bg-[#202020] cursor-pointer  rounded-lg text-lg text-[#3ed44f]  hover:text-white font-bold flex justify-center items-center "
-                                .concat(
-                                  1e5 === J &&
-                                    "border-solid border-2 text-white ",
-                                  " "
-                                )
-                                .concat(
-                                  !1 === D &&
-                                    "pointer-events-none cursor-not-allowed opacity-50 "
-                                ),
-                            style: {
-                              marginTop: "1px",
-                              marginLeft: "1px",
-                              width: "calc(100% - 2px)",
-                              height: "calc(100% - 2px)",
-                            },
-                            onClick: function () {
-                              return B(1e5);
-                            },
-                            children: "LP locked",
-                          }),
-                        }),
-                        (0, R.jsx)("div", {
-                          className: "relative h-12 rounded-lg headers-btn",
-                          style: {
-                            backgroundImage:
-                              "linear-gradient(to left, #3ed44f, gray)",
-                          },
-                          children: (0, R.jsx)("div", {
-                            className:
-                              "bg-[#202020] cursor-pointer rounded-lg text-lg text-[#3ed44f]  hover:text-white font-bold flex justify-center items-center "
-                                .concat(
-                                  2e5 === J &&
-                                    "border-solid border-2 text-white ",
-                                  " "
-                                )
-                                .concat(
-                                  !1 === D &&
-                                    "pointer-events-none cursor-not-allowed opacity-50 "
-                                ),
-                            style: {
-                              marginTop: "1px",
-                              marginLeft: "1px",
-                              width: "calc(100% - 2px)",
-                              height: "calc(100% - 2px)",
-                            },
-                            onClick: function () {
-                              return B(2e5);
-                            },
-                            children: "Renounced",
-                          }),
-                        }),
-                        (0, R.jsx)("div", {
-                          className: "relative h-12 rounded-lg headers-btn",
-                          style: {
-                            backgroundImage:
-                              "linear-gradient(to left, #3ed44f, gray)",
-                          },
-                          children: (0, R.jsx)("div", {
-                            className:
-                              "bg-[#202020] cursor-pointer rounded-lg text-lg text-[#3ed44f]  hover:text-white font-bold flex justify-center items-center "
-                                .concat(
-                                  5e5 === J &&
-                                    "border-solid border-2 text-white "
-                                )
-                                .concat(
-                                  !1 === D &&
-                                    "pointer-events-none cursor-not-allowed opacity-50 ",
-                                  " "
-                                ),
-                            style: {
-                              marginTop: "1px",
-                              marginLeft: "1px",
-                              width: "calc(100% - 2px)",
-                              height: "calc(100% - 2px)",
-                            },
-                            onClick: function () {
-                              return B(5e5);
-                            },
-                            children: "0% tax",
-                          }),
-                        }),
-                        (0, R.jsx)("div", {
-                          className: "relative h-12 rounded-lg headers-btn",
-                          style: {
-                            backgroundImage:
-                              "linear-gradient(to left, #3ed44f, gray)",
-                          },
-                          children: (0, R.jsx)("div", {
-                            className:
-                              "bg-[#202020] cursor-pointer rounded-lg text-lg text-[#3ed44f]  hover:text-white font-bold flex justify-center items-center "
-                                .concat(
-                                  1e6 === J &&
-                                    "border-solid border-2 text-white ",
-                                  " "
-                                )
-                                .concat(
-                                  !1 === D &&
-                                    "pointer-events-none cursor-not-allowed opacity-50 "
-                                ),
-                            style: {
-                              marginTop: "1px",
-                              marginLeft: "1px",
-                              width: "calc(100% - 2px)",
-                              height: "calc(100% - 2px)",
-                            },
-                            onClick: function () {
-                              return B(1e6);
-                            },
-                            children: "1,000,000,000 total supply",
-                          }),
-                        }),
+                        // (0, R.jsx)("div", {
+                        //   className: "h-12 rounded-lg headers-btn",
+                        //   style: {
+                        //     backgroundImage:
+                        //       "linear-gradient(to left, #3ed44f, gray)",
+                        //   },
+                        //   children: (0, R.jsx)("div", {
+                        //     className:
+                        //       "bg-[#202020] cursor-pointer  rounded-lg text-lg text-[#3ed44f]  hover:text-white font-bold flex justify-center items-center "
+                        //         .concat(
+                        //           1e5 === J &&
+                        //             "border-solid border-2 text-white ",
+                        //           " "
+                        //         )
+                        //         .concat(
+                        //           !1 === D &&
+                        //             "pointer-events-none cursor-not-allowed opacity-50 "
+                        //         ),
+                        //     style: {
+                        //       marginTop: "1px",
+                        //       marginLeft: "1px",
+                        //       width: "calc(100% - 2px)",
+                        //       height: "calc(100% - 2px)",
+                        //     },
+                        //     onClick: function () {
+                        //       return B(1e5);
+                        //     },
+                        //     children: "LP locked",
+                        //   }),
+                        // }),
+                        // (0, R.jsx)("div", {
+                        //   className: "relative h-12 rounded-lg headers-btn",
+                        //   style: {
+                        //     backgroundImage:
+                        //       "linear-gradient(to left, #3ed44f, gray)",
+                        //   },
+                        //   children: (0, R.jsx)("div", {
+                        //     className:
+                        //       "bg-[#202020] cursor-pointer rounded-lg text-lg text-[#3ed44f]  hover:text-white font-bold flex justify-center items-center "
+                        //         .concat(
+                        //           2e5 === J &&
+                        //             "border-solid border-2 text-white ",
+                        //           " "
+                        //         )
+                        //         .concat(
+                        //           !1 === D &&
+                        //             "pointer-events-none cursor-not-allowed opacity-50 "
+                        //         ),
+                        //     style: {
+                        //       marginTop: "1px",
+                        //       marginLeft: "1px",
+                        //       width: "calc(100% - 2px)",
+                        //       height: "calc(100% - 2px)",
+                        //     },
+                        //     onClick: function () {
+                        //       return B(2e5);
+                        //     },
+                        //     children: "Renounced",
+                        //   }),
+                        // }),
+                        // (0, R.jsx)("div", {
+                        //   className: "relative h-12 rounded-lg headers-btn",
+                        //   style: {
+                        //     backgroundImage:
+                        //       "linear-gradient(to left, #3ed44f, gray)",
+                        //   },
+                        //   children: (0, R.jsx)("div", {
+                        //     className:
+                        //       "bg-[#202020] cursor-pointer rounded-lg text-lg text-[#3ed44f]  hover:text-white font-bold flex justify-center items-center "
+                        //         .concat(
+                        //           5e5 === J &&
+                        //             "border-solid border-2 text-white "
+                        //         )
+                        //         .concat(
+                        //           !1 === D &&
+                        //             "pointer-events-none cursor-not-allowed opacity-50 ",
+                        //           " "
+                        //         ),
+                        //     style: {
+                        //       marginTop: "1px",
+                        //       marginLeft: "1px",
+                        //       width: "calc(100% - 2px)",
+                        //       height: "calc(100% - 2px)",
+                        //     },
+                        //     onClick: function () {
+                        //       return B(5e5);
+                        //     },
+                        //     children: "0% tax",
+                        //   }),
+                        // }),
+                        // (0, R.jsx)("div", {
+                        //   className: "relative h-12 rounded-lg headers-btn",
+                        //   style: {
+                        //     backgroundImage:
+                        //       "linear-gradient(to left, #3ed44f, gray)",
+                        //   },
+                        //   children: (0, R.jsx)("div", {
+                        //     className:
+                        //       "bg-[#202020] cursor-pointer rounded-lg text-lg text-[#3ed44f]  hover:text-white font-bold flex justify-center items-center "
+                        //         .concat(
+                        //           1e6 === J &&
+                        //             "border-solid border-2 text-white ",
+                        //           " "
+                        //         )
+                        //         .concat(
+                        //           !1 === D &&
+                        //             "pointer-events-none cursor-not-allowed opacity-50 "
+                        //         ),
+                        //     style: {
+                        //       marginTop: "1px",
+                        //       marginLeft: "1px",
+                        //       width: "calc(100% - 2px)",
+                        //       height: "calc(100% - 2px)",
+                        //     },
+                        //     onClick: function () {
+                        //       return B(1e6);
+                        //     },
+                        //     children: "1,000,000,000 total supply",
+                        //   }),
+                        // }),
                         // (0, R.jsx)("div", {
                         //   className: "relative h-12 rounded-lg headers-btn",
                         //   style: {
