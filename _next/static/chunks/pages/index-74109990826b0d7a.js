@@ -742,7 +742,7 @@
                   (0, R.jsxs)("div", {
                     className: "flex flex-col items-center justify-center mt-8",
                     children: [(0, R.jsxs)("a", {
-                      href: "https://youtu.be/pAnGwRiQ4-4?t=729",
+                      href: "https://dexscreener.com/solana/0xcomingsoon",
                       children: (0, R.jsxs)("img", {
                         style: { marginBottom: 40 },
                         src: "/aaa.png",
@@ -788,7 +788,7 @@
                             }),
                           }), 
                           (0, R.jsx)("a", {
-                            href: "https://x.com",
+                            href: "https://x.com/i/communities/2033805047369253051",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -806,7 +806,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                            href: "https://dexscreener.com/solana/0xcomingsoon",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -819,7 +819,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/eth/pair-explorer/0xcomingsoon",
+                            href: "https://www.dextools.io/app/en/sol/pair-explorer/0xcomingsoon",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -847,7 +847,7 @@
                     children: [
                       (0, R.jsxs)("span", {
                         className: "text-3xl text-[#3ed44f]",
-                        children: "Dale",
+                        children: "Agent Gorklon",
                       }),
                     ],
                   }),
