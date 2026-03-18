@@ -21239,7 +21239,7 @@
                         }),
                         (0, We.jsx)("a", {
                           className: "text-[#3ed44f] text-4xl",
-                          href: "https://dexscreener.com/solana/Hk5CGHtR9jkzmbadwGGJ7eXyp5AFhP4X2vMsqcY1pump",
+                          href: "https://dexscreener.com/solana/Dk5nZUcYQyzdTfT1rhHpuWW76coG3ghimooZxb94pump",
                           target: "_blank",
                           children: "Buy Now",
                         }),
