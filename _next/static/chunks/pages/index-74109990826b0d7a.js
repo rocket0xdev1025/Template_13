@@ -742,7 +742,7 @@
                   (0, R.jsxs)("div", {
                     className: "flex flex-col items-center justify-center mt-8",
                     children: [(0, R.jsxs)("a", {
-                      href: "https://dexscreener.com/solana/D9fGCbWoLkU1duj7BtvbEaJRkY3sEqpL8smdafjDpump",
+                      href: "https://dexscreener.com/solana/2bE9CZKT6tQBwdMds37Ye548u9WcmJAWkdKe7C9npump",
                       children: (0, R.jsxs)("img", {
                         style: { marginBottom: 40 },
                         src: "/aaa.png",
@@ -756,7 +756,7 @@
                             "w-fit p-2 bg-gray-800/50 text-white rounded-lg border border-gray-600",
                           onClick: function () {
                             navigator.clipboard.writeText(
-                              "D9fGCbWoLkU1duj7BtvbEaJRkY3sEqpL8smdafjDpump"
+                              "2bE9CZKT6tQBwdMds37Ye548u9WcmJAWkdKe7C9npump"
                             ),
                               (0, d.h)({
                                 type: "success",
@@ -764,7 +764,7 @@
                               });
                           }, 
                           children:
-                            "CA: D9fGCbWoLkU1duj7BtvbEaJRkY3sEqpL8smdafjDpump",
+                            "CA: 2bE9CZKT6tQBwdMds37Ye548u9WcmJAWkdKe7C9npump",
                         }),
                       }), 
                       (0, R.jsxs)("div", {
@@ -806,7 +806,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/solana/D9fGCbWoLkU1duj7BtvbEaJRkY3sEqpL8smdafjDpump",
+                            href: "https://dexscreener.com/solana/2bE9CZKT6tQBwdMds37Ye548u9WcmJAWkdKe7C9npump",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -819,7 +819,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/sol/pair-explorer/D9fGCbWoLkU1duj7BtvbEaJRkY3sEqpL8smdafjDpump",
+                            href: "https://www.dextools.io/app/en/sol/pair-explorer/2bE9CZKT6tQBwdMds37Ye548u9WcmJAWkdKe7C9npump",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
