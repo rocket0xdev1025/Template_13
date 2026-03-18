@@ -742,7 +742,7 @@
                   (0, R.jsxs)("div", {
                     className: "flex flex-col items-center justify-center mt-8",
                     children: [(0, R.jsxs)("a", {
-                      href: "https://dexscreener.com/solana/8cPHPDVthPfkpwo8TbUJAdKVskVbRygPLPfnYQo9pump",
+                      href: "https://dexscreener.com/solana/D9fGCbWoLkU1duj7BtvbEaJRkY3sEqpL8smdafjDpump",
                       children: (0, R.jsxs)("img", {
                         style: { marginBottom: 40 },
                         src: "/aaa.png",
@@ -756,7 +756,7 @@
                             "w-fit p-2 bg-gray-800/50 text-white rounded-lg border border-gray-600",
                           onClick: function () {
                             navigator.clipboard.writeText(
-                              "8cPHPDVthPfkpwo8TbUJAdKVskVbRygPLPfnYQo9pump"
+                              "D9fGCbWoLkU1duj7BtvbEaJRkY3sEqpL8smdafjDpump"
                             ),
                               (0, d.h)({
                                 type: "success",
@@ -764,7 +764,7 @@
                               });
                           }, 
                           children:
-                            "CA: 8cPHPDVthPfkpwo8TbUJAdKVskVbRygPLPfnYQo9pump",
+                            "CA: D9fGCbWoLkU1duj7BtvbEaJRkY3sEqpL8smdafjDpump",
                         }),
                       }), 
                       (0, R.jsxs)("div", {
@@ -788,7 +788,7 @@
                             }),
                           }), 
                           (0, R.jsx)("a", {
-                            href: "https://x.com/i/communities/2033805047369253051",
+                            href: "https://x.com/i/communities/2034197792516952373",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -806,7 +806,7 @@
                             
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://dexscreener.com/solana/8cPHPDVthPfkpwo8TbUJAdKVskVbRygPLPfnYQo9pump",
+                            href: "https://dexscreener.com/solana/D9fGCbWoLkU1duj7BtvbEaJRkY3sEqpL8smdafjDpump",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -819,7 +819,7 @@
                             }),
                           }),
                           (0, R.jsx)("a", {
-                            href: "https://www.dextools.io/app/en/sol/pair-explorer/8cPHPDVthPfkpwo8TbUJAdKVskVbRygPLPfnYQo9pump",
+                            href: "https://www.dextools.io/app/en/sol/pair-explorer/D9fGCbWoLkU1duj7BtvbEaJRkY3sEqpL8smdafjDpump",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -847,7 +847,7 @@
                     children: [
                       (0, R.jsxs)("span", {
                         className: "text-3xl text-[#3ed44f]",
-                        children: "Agent Gorklon",
+                        children: "Ainu Ken",
                       }),
                     ],
                   }),
